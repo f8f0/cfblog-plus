@@ -1,6 +1,7 @@
 name: 'CFBlog'
 
 on:
+  push:
   watch:
     types: started
   schedule:
